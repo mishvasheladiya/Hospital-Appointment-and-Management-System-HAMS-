@@ -2,6 +2,7 @@
 
 This project is a **Hospital Appointment and Management System (HAMS)** developed using **PHP**, **HTML/CSS**, and **MySQL** for backend database management. It helps streamline appointments, patient records, and doctor management efficiently.
 
+
 ## 🚀 Features
 
 - 👨‍⚕️ Doctor module: View appointments, update status, login/logout
@@ -19,13 +20,20 @@ This project is a **Hospital Appointment and Management System (HAMS)** develope
 - **Database:** MySQL
 - **Server:** XAMPP (Apache, MySQL)
 
-## 📂 Folder Structure
+## 📂 Folder Structure :
+
 mini_project/
+
 ├── Admin/
+
 ├── Doctor/
+
 ├── Patient/
+
 ├── image/
+
 └── README.md
+
 
 ## ⚙️ How to Run Locally
 
@@ -35,7 +43,8 @@ mini_project/
 - Open browser and go to:  
   `http://localhost/mini_project/Patient/`
 
-Database name : mini_project; 
+Database name : mini_project;
+
 Table : 
 
   <img width="217" height="163" alt="image" src="https://github.com/user-attachments/assets/83fd1bcc-2ca6-4329-ba7b-ef1c8379ed70" />
