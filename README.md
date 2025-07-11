@@ -24,6 +24,7 @@ This project is a **Hospital Appointment and Management System (HAMS)** develope
 
 mini_project/
 
+mini_project/
 ├── Admin/
 ├── Doctor/
 ├── Patient/
