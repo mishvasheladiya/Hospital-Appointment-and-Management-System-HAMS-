@@ -22,7 +22,8 @@ This project is a **Hospital Appointment and Management System (HAMS)** develope
 
 ## 📂 Folder Structure :
 
-mini_project/n
+mini_project/
+
 ├── Admin/
     ├──.php
     
