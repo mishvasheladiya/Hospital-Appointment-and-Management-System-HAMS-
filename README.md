@@ -25,11 +25,13 @@ This project is a **Hospital Appointment and Management System (HAMS)** develope
 mini_project/n
 ├── Admin/
     ├──.php
+    
 ├── Doctor/
     ├──.php
+    
 ├── Patient/
     ├──.php
-├── image/
+    
 └── README.md
 
 <img width="229" height="508" alt="image" src="https://github.com/user-attachments/assets/96640aa0-d2f6-4fac-836a-979eee33dc9a" />
