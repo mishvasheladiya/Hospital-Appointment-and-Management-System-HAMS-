@@ -37,6 +37,7 @@ mini_project/
 
 Database name : mini_project; 
 Table : 
+
   <img width="217" height="163" alt="image" src="https://github.com/user-attachments/assets/83fd1bcc-2ca6-4329-ba7b-ef1c8379ed70" />
 
   
