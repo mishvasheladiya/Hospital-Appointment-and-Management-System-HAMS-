@@ -25,5 +25,21 @@ mini_project/
 ├── Doctor/
 ├── Patient/
 ├── image/
-├── db.php
 └── README.md
+
+## ⚙️ How to Run Locally
+
+- Install XAMPP
+- Start Apache and MySQL
+- Put the folder inside `htdocs`
+- Open browser and go to:  
+  `http://localhost/mini_project/Patient/`
+
+Database name : mini_project; 
+Table : 
+  <img width="217" height="163" alt="image" src="https://github.com/user-attachments/assets/83fd1bcc-2ca6-4329-ba7b-ef1c8379ed70" />
+
+  
+
+
+
